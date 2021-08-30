@@ -12,10 +12,11 @@ export const TicketList = () => {
                     updateTickets(data)
                 })
         },
-        []
+        []//create ticket button w/ video
     )
     return (
         <>
+
 
             {
                 tickets.map(
