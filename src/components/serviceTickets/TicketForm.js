@@ -33,9 +33,6 @@ export const TicketForm = () => {
             })
     }
 
-    // const saveTicket = (event) => {
-    //     event.preventDefault()
-    // }
 
     return (
         <form className="ticketForm">
